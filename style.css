@@ -85,12 +85,12 @@ button {
   z-index: 3;
   border: none;
   background-color: white;
-  cursor:pointer;
 }
 
 #open-bar {
   width: min-content;
   height: min-content;
+  cursor:pointer;
   z-index: 2;
 }
 
