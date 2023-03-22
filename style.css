@@ -85,6 +85,7 @@ button {
   z-index: 3;
   border: none;
   background-color: white;
+  cursor:pointer;
 }
 
 #open-bar {
