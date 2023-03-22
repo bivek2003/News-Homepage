@@ -391,6 +391,8 @@ hr {
     position: relative;
     flex-direction: row;
     padding: 0;
+    flex-basis:100%;
+    justify-content: end;
   }
 
   #webicon {
