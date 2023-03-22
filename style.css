@@ -242,8 +242,8 @@ hr {
     position: relative;
     flex-direction: row;
     padding: 0;
-    justify-content: space-between;
-    flex-basis: 40%;
+    justify-content: end;
+    flex-basis: 100%;
   }
 
   #newpage a {
@@ -391,7 +391,6 @@ hr {
     position: relative;
     flex-direction: row;
     padding: 0;
-    justify-content: space-between;
   }
 
   #webicon {
